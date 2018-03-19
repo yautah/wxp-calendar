@@ -1,6 +1,6 @@
 # wxp-calendar
 
-> 小程序日历插件。
+> 小程序日历插件。（已发布，插件的相关使用问题及bug反馈，欢迎大家提交至本repo的issues）
 
 # 插件appid
 
