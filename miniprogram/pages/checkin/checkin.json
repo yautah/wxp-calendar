@@ -1,0 +1,6 @@
+{
+
+  "usingComponents": {
+    "checkin-picker": "plugin://calender/checkin-picker"
+  }
+}

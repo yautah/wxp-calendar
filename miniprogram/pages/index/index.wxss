@@ -1,0 +1,17 @@
+.row{
+  padding: 24rpx 0rpx;
+  border-bottom: 1rpx solid #e5e5e5;
+  display:flex;
+  align-items: center;
+}
+
+.label {
+  width: 160rpx;
+}
+
+.content {
+  flex: 1;
+}
+
+
+

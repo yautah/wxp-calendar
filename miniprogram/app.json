@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/checkin/checkin",
+    "pages/datepicker/index"
+  ],
+  "plugins": {
+    "calender": {
+      "version": "1.0.1",
+      "provider": "wx42b95b4509175304"
+    }
+  }
+}

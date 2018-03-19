@@ -1,0 +1,5 @@
+/* pages/datepicker/index.wxss */
+
+page {
+  background-color: #eee;
+}

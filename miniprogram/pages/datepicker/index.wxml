@@ -1,0 +1,15 @@
+<!--pages/checkin.wxml-->
+
+<view style="border-sizing:border-box;padding:24rpx;">
+  <view style="font-size:28rpx;margin-bottom: 12rpx">默认风格</view>
+  <date-picker bind:onselectdate="handleSelectDate"  />
+
+  <view style="font-size:28rpx;margin:34rpx 0 12rpx 0">带时间选择框</view>
+  <date-picker bind:onselectdate="handleSelectDate"  enable-time  />
+
+  <view style="font-size:28rpx;margin:34rpx 0 12rpx 0">传入初始已选择时间</view>
+  <date-picker bind:onselectdate="handleSelectDate"  enable-time date="2018-12-12" />
+</view>
+
+
+

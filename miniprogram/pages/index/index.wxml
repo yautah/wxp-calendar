@@ -1,0 +1,21 @@
+<!-- <checkin-picker /> -->
+<view style="padding:24rpx;font-size:28rpx">
+  <navigator url="/pages/checkin/checkin?checkin={{check.checkInOn}}&checkout={{check.checkOutOn}}" class="row">
+    <view class="label">住店时间:</view>
+    <view class="content">
+      <block wx:if="{{check}}">
+        {{check.checkInDate}} - {{check.checkOutDate}}
+      </block>
+      <block wx:else>
+        <text style="color:#999">请选择入住时间</text>
+      </block>
+    </view>
+  </navigator>
+
+  <navigator url="/pages/datepicker/index"  class="row">
+    <view class="label">日历控件:</view>
+    <view class="content">
+      <text style="color:#999">查看演示</text>
+    </view>
+  </navigator>
+</view>

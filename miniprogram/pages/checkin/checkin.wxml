@@ -1,0 +1,9 @@
+<!--pages/checkin.wxml-->
+
+<checkin-picker 
+limit-days="14"
+limit-months="3"
+bind:onconfirm="handleConfirmDate"
+check-in-on="{{checkInOn}}" 
+check-out-on="{{checkOutOn}}" />
+
