@@ -2,9 +2,29 @@
 
 > 小程序日历插件。
 
+# 插件appid
+
+> 本插件appid为wx42b95b4509175304
+
+# 当前版本
+> 1.0.1
+
 ## 说明
 
 > 本插件内包含两个自定义组件，date-picker和checkin-picker
+
+## 使用方式
+
+> 本插件appid为wx42b95b4509175304， 请在小程序后台设置 > 第三方服务 > 插件中搜索此插件appid并使用
+> app.json样例代码：
+```javascript
+"plugins": {
+    "calender": {
+      "version": "1.0.1",
+      "provider": "wx42b95b4509175304"
+    }
+  }
+```
 
 ## API
 ## date-picker(日历选择组件）
@@ -28,9 +48,11 @@
 
 ## 截图
 
-![](https://github.com/yautah/wxp-calender/blob/master/snapshots/1.png?raw=true)
-![](https://github.com/yautah/wxp-calender/blob/master/snapshots/2.png?raw=true)
-![](https://github.com/yautah/wxp-calender/blob/master/snapshots/3.png?raw=true)
+![](https://github.com/yautah/wxp-calendar/blob/master/snapshots/1.png?raw=true)
+![](https://github.com/yautah/wxp-calendar/blob/master/snapshots/2.png?raw=true)
+![](https://github.com/yautah/wxp-calendar/blob/master/snapshots/3.png?raw=true)
+
+
 
 
 ## API
@@ -61,6 +83,6 @@
 
 ## 截图
 
-![](https://github.com/yautah/wxp-calender/blob/master/snapshots/4.png?raw=true)
-![](https://github.com/yautah/wxp-calender/blob/master/snapshots/5.png?raw=true)
-![](https://github.com/yautah/wxp-calender/blob/master/snapshots/6.png?raw=true)
+![](https://github.com/yautah/wxp-calendar/blob/master/snapshots/4.png?raw=true)
+![](https://github.com/yautah/wxp-calendar/blob/master/snapshots/5.png?raw=true)
+![](https://github.com/yautah/wxp-calendar/blob/master/snapshots/6.png?raw=true)
