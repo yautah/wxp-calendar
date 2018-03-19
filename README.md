@@ -28,9 +28,9 @@
 
 ## 截图
 
-![](https://github.com/yautah/wxc-datapicker/blob/master/snapshots/1.png?raw=true)
-![](https://github.com/yautah/wxc-datapicker/blob/master/snapshots/2.png?raw=true)
-![](https://github.com/yautah/wxc-datapicker/blob/master/snapshots/3.png?raw=true)
+![](https://github.com/yautah/wxp-calender/blob/master/snapshots/1.png?raw=true)
+![](https://github.com/yautah/wxp-calender/blob/master/snapshots/2.png?raw=true)
+![](https://github.com/yautah/wxp-calender/blob/master/snapshots/3.png?raw=true)
 
 
 ## API
@@ -61,6 +61,6 @@
 
 ## 截图
 
-![](https://github.com/yautah/wxc-datapicker/blob/master/snapshots/4.png?raw=true)
-![](https://github.com/yautah/wxc-datapicker/blob/master/snapshots/5.png?raw=true)
-![](https://github.com/yautah/wxc-datapicker/blob/master/snapshots/6.png?raw=true)
+![](https://github.com/yautah/wxp-calender/blob/master/snapshots/4.png?raw=true)
+![](https://github.com/yautah/wxp-calender/blob/master/snapshots/5.png?raw=true)
+![](https://github.com/yautah/wxp-calender/blob/master/snapshots/6.png?raw=true)
